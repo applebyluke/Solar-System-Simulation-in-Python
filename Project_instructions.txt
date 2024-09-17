@@ -1,0 +1,3 @@
+The only code that you should have to change is the last line in which you may set jupiter to be True or False. False sends
+a satellite to Mars and True sends a satellite to Jupiter. If you wish the patches to be larger or smaller you may alter their
+sizes in line 433 by chaning the values in the list. Other than that the code works as expected.
